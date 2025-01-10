@@ -1,0 +1,14 @@
+# Data and Logs directories in root
+/data/
+/logs/
+/results/
+
+# Specific file in src/data
+/src/data/generator.py
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
