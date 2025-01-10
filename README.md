@@ -94,11 +94,7 @@ Experiment configurations can be modified in `src/runners/main.py`. Available co
 
 ## Contributing
 
-This is a research project currently under development. If you're interested in contributing or collaborating, please reach out to [contact information].
-
-## License
-
-[License information]
+This is a research project currently under development. If you're interested in contributing or collaborating, please reach out to pratyush.kar.singh@gmail.com
 
 ## Acknowledgments
 
@@ -107,10 +103,3 @@ This project builds upon research in:
 - Language model behavior
 - Hotelling spatial competition
 - Strategic collusion analysis
-
-## Citation
-
-If you use this code in your research, please cite:
-```
-Pratyush Singh - Caltech Student CO '27
-```
