@@ -20,33 +20,6 @@ This project implements a multi-commodity Hotelling competition model to study h
   - High-dimensional feature spaces
   - Constrained price scenarios
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone [repository-url]
-cd marketmind
-```
-
-2. Create and activate a virtual environment:
-```bash
-python -m venv venv
-# On Windows:
-venv\Scripts\activate
-# On Mac/Linux:
-source venv/bin/activate
-```
-
-3. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-4. Create a `.env` file in the project root and add your OpenAI API key:
-```
-OPENAI_API_KEY=your-api-key-here
-```
-
 ## Project Structure
 
 ```
