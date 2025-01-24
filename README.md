@@ -1,4 +1,4 @@
-# MARKETMIND: Strategic Behavior Analysis in Multi-Commodity LLM Markets
+# Strategic Behavior Analysis in Multi-Commodity LLM Markets
 
 **IMPORTANT**: This is an active research project. The code and methodologies are shared for transparency and reproducibility but are part of ongoing research work. Any use of this codebase or its underlying ideas must be appropriately cited. See LICENSE for details.
 A research framework analyzing strategic market behavior of language models in spatial competition. This project examines how different LLM models approach multi-commodity Hotelling competition and develop strategic market positions.
